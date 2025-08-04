@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace ArtyomE\UnitConverter\Converters\Temperature;
+namespace Artemind\UnitConverter\Converters\Temperature;
 
-use ArtyomE\UnitConverter\Converters\BaseConverter;
-use ArtyomE\UnitConverter\Formulas\Temperature\FahrenheitToCelsiusFormula;
-use ArtyomE\UnitConverter\Formulas\Temperature\FahrenheitToKelvinFormula;
-use ArtyomE\UnitConverter\Formulas\Temperature\FahrenheitToRankineFormula;
+use Artemind\UnitConverter\Converters\BaseConverter;
+use Artemind\UnitConverter\Formulas\Temperature\FahrenheitToCelsiusFormula;
+use Artemind\UnitConverter\Formulas\Temperature\FahrenheitToKelvinFormula;
+use Artemind\UnitConverter\Formulas\Temperature\FahrenheitToRankineFormula;
 
 class FahrenheitConverter extends BaseConverter
 {

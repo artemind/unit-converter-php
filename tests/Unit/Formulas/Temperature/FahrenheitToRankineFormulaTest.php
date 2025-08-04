@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Formulas\Temperature\FahrenheitToRankineFormula;
+use Artemind\UnitConverter\Formulas\Temperature\FahrenheitToRankineFormula;
 
 it('can convert fahrenheit to rankine', function () {
     $formula = new FahrenheitToRankineFormula();

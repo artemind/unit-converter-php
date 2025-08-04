@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Converters\Distance\MetersConverter;
-use ArtyomE\UnitConverter\Formulas\Distance\MetersToFeetFormula;
+use Artemind\UnitConverter\Converters\Distance\MetersConverter;
+use Artemind\UnitConverter\Formulas\Distance\MetersToFeetFormula;
 
 beforeEach(function () {
     $this->value = 10;

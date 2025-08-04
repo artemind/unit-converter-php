@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Converters\Temperature\RankineConverter;
-use ArtyomE\UnitConverter\Formulas\Temperature\RankineToCelsiusFormula;
-use ArtyomE\UnitConverter\Formulas\Temperature\RankineToFahrenheitFormula;
-use ArtyomE\UnitConverter\Formulas\Temperature\RankineToKelvinFormula;
+use Artemind\UnitConverter\Converters\Temperature\RankineConverter;
+use Artemind\UnitConverter\Formulas\Temperature\RankineToCelsiusFormula;
+use Artemind\UnitConverter\Formulas\Temperature\RankineToFahrenheitFormula;
+use Artemind\UnitConverter\Formulas\Temperature\RankineToKelvinFormula;
 
 beforeEach(function () {
     $this->value = 10;

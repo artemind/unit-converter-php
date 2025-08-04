@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace ArtyomE\UnitConverter\Formulas\Distance;
+namespace Artemind\UnitConverter\Formulas\Distance;
 
-use ArtyomE\UnitConverter\Formulas\FormulaInterface;
+use Artemind\UnitConverter\Formulas\FormulaInterface;
 
 class MilesToKilometersFormula implements FormulaInterface
 {

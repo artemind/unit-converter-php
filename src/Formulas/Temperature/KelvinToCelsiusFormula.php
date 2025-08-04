@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace ArtyomE\UnitConverter\Formulas\Temperature;
+namespace Artemind\UnitConverter\Formulas\Temperature;
 
-use ArtyomE\UnitConverter\Formulas\FormulaInterface;
+use Artemind\UnitConverter\Formulas\FormulaInterface;
 
 class KelvinToCelsiusFormula implements FormulaInterface
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ArtyomE\UnitConverter\Formulas;
+namespace Artemind\UnitConverter\Formulas;
 
 interface FormulaInterface
 {

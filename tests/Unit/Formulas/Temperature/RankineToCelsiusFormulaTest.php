@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Formulas\Temperature\RankineToCelsiusFormula;
+use Artemind\UnitConverter\Formulas\Temperature\RankineToCelsiusFormula;
 
 it('can convert rankine to celsius', function () {
     $formula = new RankineToCelsiusFormula();

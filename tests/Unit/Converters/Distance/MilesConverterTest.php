@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Converters\Distance\MilesConverter;
-use ArtyomE\UnitConverter\Formulas\Distance\MilesToKilometersFormula;
+use Artemind\UnitConverter\Converters\Distance\MilesConverter;
+use Artemind\UnitConverter\Formulas\Distance\MilesToKilometersFormula;
 
 beforeEach(function () {
     $this->value = 10;

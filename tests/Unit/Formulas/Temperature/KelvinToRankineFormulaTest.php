@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Formulas\Temperature\KelvinToRankineFormula;
+use Artemind\UnitConverter\Formulas\Temperature\KelvinToRankineFormula;
 
 it('can convert kelvin to rankine', function () {
     $formula = new KelvinToRankineFormula();

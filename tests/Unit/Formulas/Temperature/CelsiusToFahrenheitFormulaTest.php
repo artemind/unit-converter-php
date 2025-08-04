@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Formulas\Temperature\CelsiusToFahrenheitFormula;
+use Artemind\UnitConverter\Formulas\Temperature\CelsiusToFahrenheitFormula;
 
 it('can convert celsius to fahrenheit', function () {
     $formula = new CelsiusToFahrenheitFormula();

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace ArtyomE\UnitConverter\Converters;
+namespace Artemind\UnitConverter\Converters;
 
-use ArtyomE\UnitConverter\Formulas\FormulaInterface;
+use Artemind\UnitConverter\Formulas\FormulaInterface;
 
 class BaseConverter
 {

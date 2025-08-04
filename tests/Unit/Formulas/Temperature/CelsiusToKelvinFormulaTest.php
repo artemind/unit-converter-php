@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Formulas\Temperature\CelsiusToKelvinFormula;
+use Artemind\UnitConverter\Formulas\Temperature\CelsiusToKelvinFormula;
 
 it('can convert celsius to kelvin', function () {
     $formula = new CelsiusToKelvinFormula();

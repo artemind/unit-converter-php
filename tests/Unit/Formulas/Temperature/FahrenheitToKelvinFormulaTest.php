@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Formulas\Temperature\FahrenheitToKelvinFormula;
+use Artemind\UnitConverter\Formulas\Temperature\FahrenheitToKelvinFormula;
 
 it('can convert fahrenheit to kelvin', function () {
     $formula = new FahrenheitToKelvinFormula();

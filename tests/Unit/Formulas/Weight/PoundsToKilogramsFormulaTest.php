@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Formulas\Weight\PoundsToKilogramsFormula;
+use Artemind\UnitConverter\Formulas\Weight\PoundsToKilogramsFormula;
 
 it('can convert pounds to kilograms', function () {
     $formula = new PoundsToKilogramsFormula();

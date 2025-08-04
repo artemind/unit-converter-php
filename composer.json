@@ -1,11 +1,11 @@
 {
-    "name": "artyom-e/unit-converter",
+    "name": "artemind/unit-converter",
     "description": "A simple PHP-based unit converter",
     "keywords": [
-        "artyom-e",
+        "artemind",
         "unit-converter"
     ],
-    "homepage": "https://github.com/artyom-e/unit-converter-php",
+    "homepage": "https://github.com/artemind/unit-converter-php",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ArtyomE\\UnitConverter\\": "src/"
+            "Artemind\\UnitConverter\\": "src/"
         }
     },
     "require": {

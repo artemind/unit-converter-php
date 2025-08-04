@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace ArtyomE\UnitConverter\Converters\Weight;
+namespace Artemind\UnitConverter\Converters\Weight;
 
-use ArtyomE\UnitConverter\Converters\BaseConverter;
-use ArtyomE\UnitConverter\Formulas\Weight\KilogramsToPoundsFormula;
+use Artemind\UnitConverter\Converters\BaseConverter;
+use Artemind\UnitConverter\Formulas\Weight\KilogramsToPoundsFormula;
 
 class KilogramsConverter extends BaseConverter
 {

@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Converters\Weight\PoundsConverter;
-use ArtyomE\UnitConverter\Formulas\Weight\PoundsToKilogramsFormula;
+use Artemind\UnitConverter\Converters\Weight\PoundsConverter;
+use Artemind\UnitConverter\Formulas\Weight\PoundsToKilogramsFormula;
 
 beforeEach(function () {
     $this->value = 10;

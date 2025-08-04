@@ -9,13 +9,13 @@ Unit Converter is a flexible and extensible PHP package that allows you to conve
 ## Installation
 
 ```bash
-composer require artyom-e/unit-converter
+composer require artemind/unit-converter
 ```
 
 ## Usage
 
 ```php
-use ArtyomE\UnitConverter\Converters\Temperature\CelsiusConverter;
+use Artemind\UnitConverter\Converters\Temperature\CelsiusConverter;
 
 $converter = new CelsiusConverter(10);
 $converter->toFahrenheit(); //50.0

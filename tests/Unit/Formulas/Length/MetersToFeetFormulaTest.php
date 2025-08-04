@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use ArtyomE\UnitConverter\Formulas\Distance\MetersToFeetFormula;
+use Artemind\UnitConverter\Formulas\Distance\MetersToFeetFormula;
 
 it('can convert meters to feet', function () {
     $formula = new MetersToFeetFormula();
