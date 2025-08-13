@@ -12,7 +12,8 @@
         {
             "name": "Artem Yeremenko",
             "email": "contact@artemind.dev",
-            "role": "Developer"
+            "role": "Developer",
+            "homepage": "https://artemind.dev"
         }
     ],
     "autoload": {
