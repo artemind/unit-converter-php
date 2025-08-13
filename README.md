@@ -46,3 +46,10 @@ $converter->toRankine(); //509.67
 - Weight:
   - Kilograms to Pounds
   - Pounds to Kilograms
+
+## 👨‍💻 Author
+
+**Artem Yeremenko**
+
+- Website: [artemind.dev](https://artemind.dev)
+- GitHub: [@artemind](https://github.com/artemind)
